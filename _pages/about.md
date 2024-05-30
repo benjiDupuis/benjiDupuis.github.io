@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: default
-title: "About"
+title: About
 ---
 
 I am a second year PhD student at INRIA and ENS in Paris, under the supervision of [Umut Simsekli](https://www.di.ens.fr/umut.simsekli/publications/). before that I studied at Ecole Polytechnique (Paris, France) and EPFL (Lausanne, Switzerland).
