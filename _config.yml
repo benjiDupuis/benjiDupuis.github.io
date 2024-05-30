@@ -77,7 +77,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benjiDupuis"
-    - label: "Google Scholar
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=r99oWgkAAAAJ&hl=en"
     - label: "Linkedin"
