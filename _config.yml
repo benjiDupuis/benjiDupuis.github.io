@@ -85,7 +85,7 @@ footer:
       url: "https://www.linkedin.com/in/benjamin-dupuis-3b453a176/"
 
 defaults:
-  _posts
+  # _posts
   - scope:
       path: ""
       type: posts
