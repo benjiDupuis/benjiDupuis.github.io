@@ -23,5 +23,5 @@ classes: wide
 **MS thesis**
 
 * **B. Dupuis** [Generalization Bounds with
-Data-dependent Fractal Dimensions]("assets/theses/Master_thesis_Benjamin.pdf")
+Data-dependent Fractal Dimensions](../assets/theses/Master_thesis_Benjamin.pdf)
 
