@@ -6,11 +6,11 @@ classes: wide
 
 **International conferences**
 
-* **B. Dupuis**, U. Simsekli ["Generalization Bounds for Heavy-Tailed SDEs through the Fractional Fokker-Planck Equation"](https://arxiv.org/abs/2402.07723), International Conference on Machine Learning (ICML), Vienna, Austria, **2023**
+* **B. Dupuis**, U. Simsekli ["Generalization Bounds for Heavy-Tailed SDEs through the Fractional Fokker-Planck Equation"](https://arxiv.org/abs/2402.07723), International Conference on Machine Learning (**ICML**), Vienna, Austria, **2023**
 
-* **B. Dupuis**, G. Deligiannidis, U. Simsekli ["Generalization Bounds with Data-dependent Fractal Dimensions"](https://arxiv.org/abs/2302.02766), International Conference on Machine Learning (ICML), Honolulu, Hawaii, USA, **2023**
+* **B. Dupuis**, G. Deligiannidis, U. Simsekli ["Generalization Bounds with Data-dependent Fractal Dimensions"](https://arxiv.org/abs/2302.02766), International Conference on Machine Learning (**ICML**), Honolulu, Hawaii, USA, **2023**
 
-* **B. Dupuis**, A. Jacot, ["DNN-based topology optimisation: Spatial invariance and neural tangent kernel"](https://arxiv.org/abs/2106.05710), Advances in Neural Information Processing Systems Conference (NeurIPS), **2021**
+* **B. Dupuis**, A. Jacot, ["DNN-based topology optimisation: Spatial invariance and neural tangent kernel"](https://arxiv.org/abs/2106.05710), Advances in Neural Information Processing Systems Conference (**NeurIPS**), **2021**
 
 **Workshops**
 
