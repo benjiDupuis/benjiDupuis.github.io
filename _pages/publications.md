@@ -20,6 +20,8 @@ classes: wide
 
 * **B. Dupuis**, P. Viallard, G. Deligiannidis, U. Simsekli, ["Uniform Generalization Bounds on Data-Dependent Hypothesis Sets via PAC-Bayesian Theory on Random Sets"](https://arxiv.org/abs/2404.17442), **arxiv**, **2024**
 
+* R. Andreeva, **B. Dupuis**, R. Sarkar, T. Birdal, U. Şimşekli, ["Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms"](https://arxiv.org/abs/2407.08723), **arxiv**, **2024**
+
 **MS thesis**
 
 * **B. Dupuis** [Generalization Bounds with
