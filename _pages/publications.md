@@ -24,6 +24,14 @@ classes: wide
 
 **MS thesis**
 
-* **B. Dupuis** [Generalization Bounds with
-Data-dependent Fractal Dimensions](../assets/theses/Master_thesis_Benjamin.pdf), **2023**
+<!-- * **B. Dupuis** [Generalization Bounds with
+Data-dependent Fractal Dimensions](../assets/theses/Master_thesis_Benjamin.pdf), **2023** -->
+
+---
+title: "Generalization Bounds with Data-dependent Fractal Dimensions"
+cathegory: Master thesis
+date: 2023
+paperurl: 'https://arxiv.org/abs/2407.08723'
+---
+
 
