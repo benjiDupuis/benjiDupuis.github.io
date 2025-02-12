@@ -6,7 +6,7 @@ classes: wide
 
 **Journals and international conferences**
 
-* **B. Dupuis**, Paul Viallard, George Deligiannidis, Umut Simsekli, ["Uniform Generalization Bounds on Data-Dependent Hypothesis Sets via PAC-Bayesian Theory on Random Sets"](https://arxiv.org/abs/2404.17442), Jounral of Machine Learning Research,  **JMLR**, **2024**
+* **Benjamin Dupuis**, Paul Viallard, George Deligiannidis, Umut Simsekli, ["Uniform Generalization Bounds on Data-Dependent Hypothesis Sets via PAC-Bayesian Theory on Random Sets"](https://arxiv.org/abs/2404.17442), Jounral of Machine Learning Research,  **JMLR**, **2024**
 
 * Rayna Andreeva, **Benjamin Dupuis**, Rik Sarkar, Tolga Birdal, Umut Simsekli, ["Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms"](https://arxiv.org/abs/2407.08723), Advances in Neural Information Processing Systems Conference **NeurIPS**, New Orleans, USA, **2024**
 
