@@ -87,8 +87,8 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_pages/publications.md"
+      type: publications
     values:
       layout: single
       author_profile: true
