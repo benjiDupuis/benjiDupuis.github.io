@@ -22,6 +22,8 @@ classes: wide
 
 **Preprints**
 
+* **Benjamin Dupuis**, Dario Shariatian, Maxime Haddouche, Alain Durmus, Umut Simsekli, ["Algorithm- and Data-Dependent Generalization Bounds for Score-Based Generative Models"](https://www.arxiv.org/abs/2506.03849)
+
 * **Benjamin Dupuis**, Maxime Haddouche, George Deligiannidis, Umut Simsekli, ["Understanding the Generalization Error of Markov algorithms through Poissonization"](https://arxiv.org/abs/2502.07584)
 
 **Master thesis**
