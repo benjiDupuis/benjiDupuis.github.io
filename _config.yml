@@ -84,25 +84,25 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/benjamin-dupuis-3b453a176/"
 
-# defaults:
-#   # _posts
-#   # - scope:
-#   #     path: ""
-#   #     type: posts
-#   #   values:
-#   #     layout: single
-#   #     author_profile: true
-#   #     read_time: true
-#   #     comments: true
-#   #     share: true
-#   #     related: true
-#   # _pages
-#   - scope:
-#       path: "_pages"
-#       type: pages
-#     values:
-#       layout: single
-#       author_profile: true
+defaults:
+  # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
