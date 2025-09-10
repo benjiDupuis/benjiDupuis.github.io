@@ -26,6 +26,8 @@ classes: wide
 
 * **Benjamin Dupuis**, Maxime Haddouche, George Deligiannidis, Umut Simsekli, ["Understanding the Generalization Error of Markov algorithms through Poissonization"](https://arxiv.org/abs/2502.07584)
 
+* Mario Tuci, Lennart Bastian, **Benjamin Dupuis**, Nassir Navab, Tolga Birdal, Umut Simsekli, ["Mutual Information Free Topological Generalization Bounds via Stability"](https://arxiv.org/abs/2507.06775)
+
 **Master thesis**
 
 * **Benjamin Dupuis** [Generalization Bounds with
