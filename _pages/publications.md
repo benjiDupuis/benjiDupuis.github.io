@@ -24,6 +24,8 @@ classes: wide
 
 **Preprints**
 
+* **Benjamin Dupuis**, Mert Gürbüzbalaban, Umut Şimşekli, Jian Wang, Sinan Yildirim, Lingjiong Zhu, ["Rényi Differential Privacy for Heavy-Tailed SDEs via Fractional Poincaré Inequalities"](https://arxiv.org/abs/2511.15634)
+
 * **Benjamin Dupuis**, Maxime Haddouche, George Deligiannidis, Umut Simsekli, ["Understanding the Generalization Error of Markov algorithms through Poissonization"](https://arxiv.org/abs/2502.07584)
 
 * Mario Tuci, Lennart Bastian, **Benjamin Dupuis**, Nassir Navab, Tolga Birdal, Umut Simsekli, ["Mutual Information Free Topological Generalization Bounds via Stability"](https://arxiv.org/abs/2507.06775)
