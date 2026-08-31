@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Benjamin Dupuis"
   avatar : "/assets/images/photo_website.jpg"
-  bio    : "PhD student in learning theory at INRIA and ENS (Paris)"
+  bio    : "Postoctoral researcher in the Department of Statistics at the University of Oxford"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
