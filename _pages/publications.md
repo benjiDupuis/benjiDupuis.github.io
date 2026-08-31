@@ -6,6 +6,8 @@ classes: wide
 
 **Journals and international conferences**
 
+* **Benjamin Dupuis**, Tyler Farghly, Maxime Haddouche, Alain Durmus, Umut Simsekli, ["Tightening the Score Matching Gap for Diffusion Models"](https://arxiv.org/abs/2607.04442), International Conference on Machine Learning **ICML**, Seoul, South Korea, **2026**
+
 * **Benjamin Dupuis**, Dario Shariatian, Maxime Haddouche, Alain Durmus, Umut Simsekli, ["Algorithm- and Data-Dependent Generalization Bounds for Score-Based Generative Models"](https://www.arxiv.org/abs/2506.03849), Advances in Neural Information Processing Systems Conference **NeurIPS**, San Diego, USA, **2025**
 
 * **Benjamin Dupuis**, Paul Viallard, George Deligiannidis, Umut Simsekli, ["Uniform Generalization Bounds on Data-Dependent Hypothesis Sets via PAC-Bayesian Theory on Random Sets"](https://arxiv.org/abs/2404.17442), Jounral of Machine Learning Research,  **JMLR**, **2024**
@@ -24,11 +26,13 @@ classes: wide
 
 **Preprints**
 
-* **Benjamin Dupuis**, Mert Gürbüzbalaban, Umut Şimşekli, Jian Wang, Sinan Yildirim, Lingjiong Zhu, ["Rényi Differential Privacy for Heavy-Tailed SDEs via Fractional Poincaré Inequalities"](https://arxiv.org/abs/2511.15634)
+* **Benjamin Dupuis**, Tyler Farghly, Alain Durmus, Umut Simsekli, ["Benign Overfitting Does Not Occur in Diffusion Models"](https://arxiv.org/abs/2607.02671), **2026**
 
-* **Benjamin Dupuis**, Maxime Haddouche, George Deligiannidis, Umut Simsekli, ["Understanding the Generalization Error of Markov algorithms through Poissonization"](https://arxiv.org/abs/2502.07584)
+* **Benjamin Dupuis**, Maxime Haddouche, George Deligiannidis, Umut Simsekli, ["Generalization Bounds for Markov Algorithms through Entropy Flow Computations"](https://arxiv.org/abs/2502.07584), **2026**
 
-* Mario Tuci, Lennart Bastian, **Benjamin Dupuis**, Nassir Navab, Tolga Birdal, Umut Simsekli, ["Mutual Information Free Topological Generalization Bounds via Stability"](https://arxiv.org/abs/2507.06775)
+* Mario Tuci, Lennart Bastian, **Benjamin Dupuis**, Nassir Navab, Tolga Birdal, Umut Simsekli, ["Stability, Complexity and Data-Dependent Worst-Case Generalization Bounds"](https://arxiv.org/abs/2507.06775), **2026**
+
+* **Benjamin Dupuis**, Mert Gürbüzbalaban, Umut Şimşekli, Jian Wang, Sinan Yildirim, Lingjiong Zhu, ["Rényi Differential Privacy for Heavy-Tailed SDEs via Fractional Poincaré Inequalities"](https://arxiv.org/abs/2511.15634), **2025**
 
 **Master thesis**
 
